@@ -63,6 +63,9 @@ body {
     bottom: -30px;
     background-color: hsl(150, 100%, 66%);
     transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .dice:hover {
